@@ -303,7 +303,7 @@ def run():
         emilia = Character('Emilia', 60, 600, 90, 100)
         subaru.Attack(emilia)
         emilia.Status()
-        emilia.Take_damage(20, pollo)
+        emilia.Take_damage(20, Subaru)
         emilia.Status()"""
           
 if __name__ == '__main__':
