@@ -299,12 +299,7 @@ def run():
             print('Please, enter a correct option')
             input()
 
-        """subaru = Character('Subaru', 30, 200, 40, 60)
-        emilia = Character('Emilia', 60, 600, 90, 100)
-        subaru.Attack(emilia)
-        emilia.Status()
-        emilia.Take_damage(20, Subaru)
-        emilia.Status()"""
+        
           
 if __name__ == '__main__':
     run()
