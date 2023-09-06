@@ -1,2 +1,2 @@
-# Simulador-batallas-rpg
-Simulador de batallas por turnos estilo RPG
+# Simulador-batallas-TBS
+Simulador de batallas por turnos estilo TBS
